@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Blog
-      pageRef: /
+      pageRef: /blog
       weight: 2
     - name: GitHub
       weight: 10
