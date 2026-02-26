@@ -1,6 +1,3 @@
 ---
-title: 
-toc: false
+title: Blog
 ---
-
-
